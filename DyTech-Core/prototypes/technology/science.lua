@@ -4,7 +4,6 @@ data:extend(
     type = "technology",
     name = "science-packs-1",
     icon = "__base__/graphics/technology/advanced-electronics.png",
-    prerequisites = {""},
     effects =
     {
       {
